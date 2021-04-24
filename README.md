@@ -1,4 +1,4 @@
-# :tulip: THINKO
+# :star2: THINKO
 ---
 
 ## :clipboard: 개요
