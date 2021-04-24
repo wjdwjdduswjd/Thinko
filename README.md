@@ -113,7 +113,7 @@
 >   
 >   2. 아이디과 이메일 둘 중 하나라도 올바르지 않은 정보 입력 시 경고창이 출력된다.
 >   
-<img src="https://user-images.githubusercontent.com/71631964/115950780-39a75d80-a518-11eb-8149-e5217d8fd064.png" width="너비 " height="높이">
+> <img src="https://user-images.githubusercontent.com/71631964/115950780-39a75d80-a518-11eb-8149-e5217d8fd064.png" width="너비 " height="높이">
 
 ---
 
